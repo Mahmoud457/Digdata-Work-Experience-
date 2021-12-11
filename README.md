@@ -14,4 +14,6 @@ I created a program that goes through the excel spreadsheet and analysis the dat
 8.	Cheltenham – 587.24 points
 9.	Bristol – 557.94
 10.	Milton Keynes – 516.89
+
+
 These indicate the 10 best locations for the pop up. Therefore, BrandX should use these locations. The code can be found at 
